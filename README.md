@@ -16,6 +16,15 @@
 ![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer.png)
 
 ---
+## Config overview:
+
+![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings.png)
+
+![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings1.png)
+
+![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings2.png)
+
+---
 # **INPUT:**
 
 `msg.payload`
@@ -32,43 +41,43 @@
  - led=magenta / led=magenta&flash
  - led=cancel
 
----
+
 ## Vibrate
  - vibrate
 
----
+
 ## Statusbar
  - statusbar=Hello Android
  - statusbar=cancel
 
----
+
 ## Text
  - textsmall=Hallo, weiterer Text
  - textmedium=Hallo, weiterer Text
  - textlarge=Hallo, weiterer Text
  - text=close
 
----
+
 ## Infobox
  - infobox=Hello Android
 
----
+
 ## TTS
  - tts=Hallo HomeMatic
  
 (bei einigen Geräten ist keine Sprache für TTS vorinstalliert. Kontrollieren oder nachinstallieren können Sie diese unter "Einstellungen" -> "Sprache und Eingabe "-> "Text in Sprache" )
 
----
+
 ## Volume
  - volume=10 (1-15)
 
----
+
 ## Call
  - call=0421123456
  - dial=0421123456
  - sms=0150123456&message=Hallo (GSM Modul im Geräte vorausgesetzt und nur bis Version 1.25 da Google die Funktion nicht mehr erlaubt)
 
----
+
 ## App
  - Starte Standard-Apps ab Android 4.0.3
  - appbrowser
@@ -80,13 +89,13 @@
  - appmessaging
  - appmusic
 
----
+
 ## Screen
  - screenon (continual)
  - screenoff
  - screentimeout=10 in sec
 
----
+
 ## Color Screen
  - colorscreen=red
  - colorscreen=green
@@ -101,11 +110,11 @@
  - colorscreen=cyan
  - colorscreen=close
 
----
+
 ## Tasker
  - tasker="Name des Task"
 
----
+
 ## Track
  - track="beispiel.mp3"
 
