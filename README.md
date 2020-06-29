@@ -8,7 +8,7 @@
 ### Forum: https://homematic-forum.de/forum/viewtopic.php?f=77&t=59572
 
 
-### Subflow: https://github.com/Matten-Matten/node-red-home24-mediaplayer-flow/blob/master/node-red-home24-mediaplayer-SUB-Flow.json
+### Subflow: https://github.com/Matten-Matten/node-red-home24-mediaplayer-flow/blob/master/home24-mediaplayer-SUB-Flow.json
 
 ---
 ## Beispiel:
