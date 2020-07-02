@@ -22,8 +22,10 @@
 
 ![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings.png)
 
+---
 ![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings1.png)
 
+---
 ![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer-Settings2.png)
 
 ---
