@@ -12,8 +12,6 @@
 
 ### Subflow: https://github.com/Matten-Matten/node-red-home24-mediaplayer-flow/blob/master/home24-mediaplayer-SUB-Flow.json
 
----
-## Beispiel:
 
 ![picture](https://raw.githubusercontent.com/Matten-Matten/node-red-home24-mediaplayer-flow/master/picture/Node-RED_home24-mediaplayer.png)
 
