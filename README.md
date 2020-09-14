@@ -1,8 +1,6 @@
-![Logo](https://lh3.googleusercontent.com/RPzIxiY8DEC6DKp7RlkT-cB1MoDjuZsTGKMzXzWD8YeBk9fT7hFxMuV83ymCvCaet3Q=s50-rw)
+![picture](https://avatars3.githubusercontent.com/u/5375661?s=50&v=4) ![Logo](https://lh3.googleusercontent.com/RPzIxiY8DEC6DKp7RlkT-cB1MoDjuZsTGKMzXzWD8YeBk9fT7hFxMuV83ymCvCaet3Q=s50-rw)
 [Home24-MediaPlayer](http://www.home-24.net/index.php?app=media)
 # **NodeRed Home24 Mediaplayer Subflow**
-
- ![picture](https://avatars3.githubusercontent.com/u/5375661?s=50&v=4)
  
  - Subflow for Nodered to send commands to Home24 Mediaplayer App.
  - (DE) Subflow für Nodered um Befehle an die Home24 Mediaplayer App zu senden
