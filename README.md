@@ -122,6 +122,12 @@
 
 ## Changelog
 
+### 1.2.0 (2020-11-10)
+* (Matten-Matten)       add: `to stable`
+* (Matten-Matten)       add: `correction in send code`
+* (Matten-Matten)       add: `APK download links`
+* (Matten-Matten)       add: `ipadress handling`
+
 ### 0.0.2 (2020-06-29)
 * (Matten-Matten)       add: `bugfix`
 
