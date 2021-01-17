@@ -4,9 +4,12 @@
  
  - Subflow for Nodered to send commands to Home24 Mediaplayer App.
  - (DE) Subflow für Nodered um Befehle an die Home24 Mediaplayer App zu senden
- 
-### Forum: https://homematic-forum.de/forum/viewtopic.php?f=77&t=59572
 
+![Logo](https://homematic-forum.de/forum/styles/prosilver/theme/images/homematic-logo.png)
+
+Forum: https://homematic-forum.de/forum/viewtopic.php?f=77&t=59572
+
+---
 
 ### Subflow: https://github.com/Matten-Matten/node-red-home24-mediaplayer-flow/blob/master/home24-mediaplayer-SUB-Flow.json
 
